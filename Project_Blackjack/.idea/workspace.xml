@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff1c29c4-1b21-4961-ac68-2c20af140783" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm.json" />
+    </elmProjects>
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="null" elmTestPath="null" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ProjectId" id="1kGuXSRfL6IEICIgiM3bmiul4fI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project-FP/Project" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in Project" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory" temporary="true">
+      <ElmTestRunConfiguration elm-folder="D:\Desktop\ANUL III\FP\Assignment 3\Project" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="D:\Desktop\ANUL III\FP\Assignment 3\Project" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Elm Test.Tests in Project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1c29c4-1b21-4961-ac68-2c20af140783" name="Default Changelist" comment="" />
+      <created>1605339289447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605339289447</updated>
+      <workItem from="1605339292915" duration="2903000" />
+      <workItem from="1605342390632" duration="36844000" />
+      <workItem from="1605425955859" duration="33255000" />
+      <workItem from="1605466011956" duration="204000" />
+      <workItem from="1605466712804" duration="309000" />
+      <workItem from="1605467142698" duration="75000" />
+      <workItem from="1605470932330" duration="763000" />
+      <workItem from="1605512747086" duration="1806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605341037879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605341037879" />
+    <state x="908" y="166" key="FileChooserDialogImpl" timestamp="1605512781861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="908" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605512781861" />
+    <state x="727" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1605512746556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="727" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605512746556" />
+    <state x="793" y="190" key="run.anything.popup" timestamp="1605440320518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="793" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605440320518" />
+  </component>
+</project>
